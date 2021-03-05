@@ -3,11 +3,14 @@
 <img src="https://komarev.com/ghpvc/?username=Incasx" alt="shield.png">
 
 -----------
+<br>
 
 ## WARNING <img src="https://images.emojiterra.com/google/android-nougat/512px/26a0.png" width="28px" alt="warn">
 
 **We provide you codes but it contains license so if you use it you have to give us credits 😉**
 You can see it by clicking <a href="www.developerz.cf/License.html">here </a>
+<br>
+<br>
 
 ## Languages and Tools <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/47165/hammer-and-wrench-emoji-clipart-xl.png" width="28px" alt="tool"> :
 
@@ -32,7 +35,7 @@ You can see it by clicking <a href="www.developerz.cf/License.html">here </a>
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+<br>
 <br/>
 
 ### 📝 Discord Server
