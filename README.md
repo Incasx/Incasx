@@ -38,8 +38,18 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 <br>
 <br/>
 
-### 📝 Discord Server
+### Discord Server 🗒
 <center>
 <a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a></center>
 
 <br><br>
+
+### Best Codes of Incasx
+
+**These can be found in our server or github..**
+- Leveling System
+- Custom Welcome Message
+- 24/7 Music System 
+- Random Jokes generator 
+- Basic Bot structure by aestra ( You can remove credits)
+- & many more
