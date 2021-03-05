@@ -19,7 +19,7 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 
 ## Languages and Tools <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/47165/hammer-and-wrench-emoji-clipart-xl.png" width="28px" alt="tool"> :
 
-<p align="center">
+
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -42,7 +42,7 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
   
-  </p>
+  
 <br>
 <br/>
 
