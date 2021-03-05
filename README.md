@@ -1,10 +1,10 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  Welcome to Incasx 
+# Welcome to Incasx <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 -----------------------------
 <img src="https://komarev.com/ghpvc/?username=Incasx" alt="shield.png">
 
 -----------
 
-## Languages and Tools 🛠 :
+## Languages and Tools <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/47165/hammer-and-wrench-emoji-clipart-xl.png" width="28px" alt="hi"> :
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
