@@ -8,7 +8,7 @@
 ## WARNING <img src="https://images.emojiterra.com/google/android-nougat/512px/26a0.png" width="28px" alt="warn">
 
 **We provide you codes but it contains license so if you use it you have to give us credits 😉**
-You can see it by clicking <a href="https://www.incasx.ga/License.html">here </a>
+You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 <br>
 <br>
 
