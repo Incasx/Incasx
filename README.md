@@ -1,6 +1,6 @@
 # Incasx
 -----------------------------
-<img src="https://komarev.com/ghpvc/?username=TeamDarkDevs" alt="shield.png">
+<img src="https://komarev.com/ghpvc/?username=Incasx" alt="shield.png">
 -----------
 ## Languages and Tools 🛠 :
 
