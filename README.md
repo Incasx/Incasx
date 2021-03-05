@@ -45,8 +45,8 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 
 ### Discord Server 🗒
 <center>
-<a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a></center>
-
+  <p align="center"> <a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a></center>
+</p>
 <br><br>
 
 ### Best Codes of Incasx
