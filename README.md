@@ -4,6 +4,11 @@
 
 -----------
 
+## WARNING
+
+**We provide you codes but it contains license so if you use it you have to give us credits 😉**
+You can see it by clicking <a href="www.developerz.cf/License.html">here </a>
+
 ## Languages and Tools <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/47165/hammer-and-wrench-emoji-clipart-xl.png" width="28px" alt="hi"> :
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
