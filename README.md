@@ -27,7 +27,7 @@
 <br/>
 
 ### 📝 Discord Server
-
-<a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a>
+<center>
+<a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a></center>
 
 <br><br>
