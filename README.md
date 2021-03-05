@@ -46,13 +46,13 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 <br>
 <br/>
 
-### Discord Server 🗒
+### 🗒 Discord Server 🗒
 <center>
   <p align="center"> <a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a></center>
 </p>
 <br><br>
 
-### Best Codes of Incasx
+### 💻 Best Codes of Incasx 💻
 
 **These can be found in our server or github..**
 - Leveling System
