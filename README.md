@@ -25,7 +25,9 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
-## 📝 Discord Server
+
+### 📝 Discord Server
 
 <a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a>
+
 <br><br>
