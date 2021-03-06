@@ -82,7 +82,7 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 
 ----------
 
-[@Bunny](https://github.com/bunny-03) | [@Turbo](https://github.com/Tomato-Salad) 
+[@Bunny](https://github.com/bunny-03) | [@Turbo](https://github.com/Tomato-Salad) |
 
 --- | ---
 
