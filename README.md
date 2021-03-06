@@ -66,6 +66,6 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 ## 💫 Our Team 💫
 
 
-[@ParasOp](https://github.com/Parasop) | [@Colderry](https://github.com/Colderry) |  [@Abhay](https://github.com/abhay)  [@Pikachu](https://github.com/mitul009) | [@Aestra](https://github.com/Aestradev) 
---- | --- | --- | ---
+[@ParasOp](https://github.com/Parasop) | [@Colderry](https://github.com/Colderry)   [@Pikachu](https://github.com/mitul009) | [@Aestra](https://github.com/Aestradev) |  [@Abhay](https://github.com/abhay)  
+--- | --- | --- | --- | ---
 ![@ParasOp](https://avatars.githubusercontent.com/u/63485824?s=460&u=a136b6db34391b3a093134a62b7dfced1f848fd8&v=4) | ![@Colderry](https://avatars.githubusercontent.com/u/72723052?s=460&u=ab78727ad188702e38fcb915eb306a9cc42e821a&v=4) | ![@Pikachu](https://avatars.githubusercontent.com/u/69028254?s=460&u=d354fe081b69b4ea1d0a83e7193507f2de497303&v=4) | ![@Aestra](https://avatars.githubusercontent.com/u/71583327?s=460&u=ca007d793c9126e8f871ad4e53f4199b62c590a5&v=4) | ![@Abhay](https://cdn.discordapp.com/avatars/702465683862323250/ea809747cf605a18b2051fd484bf0a97.webp)
