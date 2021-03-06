@@ -86,5 +86,5 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 
 --- | --- |
 
-![@Bunny](https://cdn.discordapp.com/avatars/700977648045785149/494f5ddb474b02180017e1728892f211.webp?size=1024) | ![@Turbo](https://cdn.discordapp.com/avatars/700977648045785149/494f5ddb474b02180017e1728892f211.webp?size=1024) 
+![@Bunny](https://cdn.discordapp.com/avatars/700977648045785149/494f5ddb474b02180017e1728892f211.webp?size=1024) | ![@Turbo](https://avatars.githubusercontent.com/u/71583327?s=460&u=ca007d793c9126e8f871ad4e53f4199b62c590a5&v=4)
 
