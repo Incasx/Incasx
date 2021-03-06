@@ -84,7 +84,7 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 
 [@Bunny](https://github.com/bunny-03) | [@Turbo](https://github.com/Tomato-Salad) 
 
---- |
+--- | ---
 
 ![@Bunny](https://cdn.discordapp.com/avatars/700977648045785149/494f5ddb474b02180017e1728892f211.webp?size=1024) |  
 ![@Turbo](https://cdn.discordapp.com/avatars/700977648045785149/494f5ddb474b02180017e1728892f211.webp?size=1024) 
