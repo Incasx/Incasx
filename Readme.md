@@ -82,7 +82,7 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 
 ----------
 
-[@Bunny](https://github.com/bunny-03) | [@Colderry](https://github.com/Colderry) |  [@Pikachu](https://github.com/mitul009) | [@Aestra](https://github.com/Aestradev) |  [@Abhay](https://github.com/abhaysharma1702)
+[@Bunny](https://github.com/bunny-03) | 
 --- | --- | --- | --- | --- 
 ![@Bunny](https://cdn.discordapp.com/avatars/700977648045785149/494f5ddb474b02180017e1728892f211.webp?size=4096) |  | 
 
