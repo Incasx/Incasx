@@ -9,6 +9,8 @@
 <img src="https://i.ibb.co/R3ZpDdV/Incasx.png" alt="incasx">
   </p>
   <br><br>
+  
+  ---------------
 
 ## WARNING <img src="https://images.emojiterra.com/google/android-nougat/512px/26a0.png" width="28px" alt="warn">
 
@@ -16,6 +18,8 @@
 You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 <br>
 <br>
+
+------------
 
 ## Languages and Tools <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/47165/hammer-and-wrench-emoji-clipart-xl.png" width="28px" alt="tool"> :
 
@@ -46,11 +50,15 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 <br>
 <br/>
 
+-----------------
+
 ### 🗒 Discord Server 🗒
 <center>
   <p align="center"> <a href="https://discord.gg/njMZXdAcZM"><img src="https://invidget.switchblade.xyz/njMZXdAcZM"/></a></center>
 </p>
 <br><br>
+
+-----------------
 
 ### 💻 Best Codes of Incasx 💻
 
@@ -61,6 +69,8 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 - Random Jokes generator 
 - Basic Bot structure by aestra ( You can remove credits)
 - & many more
+
+-----------------------
 
 
 ## 💫 Our Team 💫
