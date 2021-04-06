@@ -54,7 +54,7 @@ You can see it by clicking <a href="http://www.incasx.ga/License.html">here </a>
 
 ### 🗒 Discord Server 🗒
 <center>
-  <p align="center"> <a href="https://discord.gg/zrhMCbmTMF"><img src="https://invidget.switchblade.xyz/zrhMCbmTMF"/></a></center>
+  <p align="center"> <a href="https://discord.gg/ZRsUQphM3c"><img src="https://invidget.switchblade.xyz/ZRsUQphM3c"/></a></center>
 </p>
 <br><br>
 
